@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_269927_demoprojt_user_security">x_269927_demoprojt_user_security</category>
+        <maximum_digits>8</maximum_digits>
+        <number>1000</number>
+        <prefix>IND</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-26 13:11:04</sys_created_on>
+        <sys_id>c018e1c7dbd12300a3c28a1848961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IND</sys_name>
+        <sys_package display_value="DemoProjt" source="x_269927_demoprojt">d078f050db012300a3c28a18489619c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoProjt">d078f050db012300a3c28a18489619c4</sys_scope>
+        <sys_update_name>sys_number_c018e1c7dbd12300a3c28a1848961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-26 13:11:04</sys_updated_on>
+    </sys_number>
+</record_update>

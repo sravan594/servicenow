@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_269927_demoprojt.user_security_user" name="x_269927_demoprojt.user_security_user">2b08e147dbd12300a3c28a184896191b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-26 13:11:02</sys_created_on>
+        <sys_id>2308e147dbd12300a3c28a184896191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2b08e147dbd12300a3c28a184896191b</sys_name>
+        <sys_package display_value="DemoProjt" source="x_269927_demoprojt">d078f050db012300a3c28a18489619c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoProjt">d078f050db012300a3c28a18489619c4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2308e147dbd12300a3c28a184896191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-26 13:11:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

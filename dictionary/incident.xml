@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,all_tables.query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="57" text_index="true" type="collection">
+        <element label="New True/False" max_length="40" name="x_269927_demoprojt_u_boolean_7" type="boolean"/>
+        <element label="New Duration" max_length="40" name="x_269927_demoprojt_u_glide_duration_4" type="glide_duration"/>
+        <element label="Modified Time" max_length="40" name="x_269927_demoprojt_u_glide_time_3" type="glide_time"/>
+        <element label="New Time" max_length="40" name="x_269927_demoprojt_u_glide_time_6" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Approved By" max_length="40" name="x_269927_demoprojt_u_string_8" type="string"/>
+    </element>
+</database>
