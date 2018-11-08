@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Testing" max_length="40" name="x_269927_demoprojt_testing" type="collection">
+        <element default="75" display="true" label="Currency" max_length="40" name="currency" type="currency"/>
+        <element label="Testing" max_length="40" name="testing" type="integer"/>
+    </element>
+</database>
